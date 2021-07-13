@@ -1,0 +1,19 @@
+[
+	{
+		"_id": "23203023",
+		"user_id": "203570129383",
+		"status": "active",
+		"daySubscription": "2021-01-03"
+	},
+	{
+		"_id": "30827323",
+		"user_id": "93031232",
+		"status": "not active"
+	},
+	{
+		"_id": "23203023",
+		"user_id": "92883203",
+		"status": "active",
+		"daySubscription": "2020-03-12"
+	}
+]

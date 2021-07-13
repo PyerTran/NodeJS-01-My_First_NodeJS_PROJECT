@@ -1,0 +1,16 @@
+{
+  "name": "stage_test_redux",
+  "version": "1.0.0",
+  "description": "Technical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pierre Tran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jq-web": "^0.5.1"
+  }
+}
